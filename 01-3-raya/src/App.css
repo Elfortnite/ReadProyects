@@ -1,9 +1,77 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem;
+  width:100%;
   text-align: center;
+  background-color: #888;;
 }
+/*
+#root img{
+  width :10%;
+  background-color: #ec0000;  
+}*/
+.busqueda {
+  width:100%;
+  padding: 5px;
+  font-size: 20px;
+  background-repeat: 10px;
+  border: #dfd5d5;
+}
+.busqueda input{
+
+  border: #dfd5d5;
+  background-color: aliceblue;
+}
+.busqueda input::placeholder{
+  color: #020101;
+}
+
+.tiempo{
+  background-color: #ade613;
+
+}
+.igual{
+  background-color: #ec0000;
+  margin: 1%;
+
+}
+.uno{
+  background-color: #19053038;
+  margin: 0 auto;
+  width: 90%;
+  height:60%;
+}
+
+.tres{
+  background-color: #020101;
+  width: 20%;
+  display: inline-block;
+
+
+
+
+}
+.cuatro{
+  background-color: #178317;
+  width: 20%;
+  display: inline-block;
+  margin-left: 4%;
+
+
+
+
+}
+.imp{
+  width :5%;
+
+}
+
+.imj{
+  width :50%;
+  background-color: #dfd5d5;  
+}
+
 
 .logo {
   height: 6em;
@@ -11,8 +79,12 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
+
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
+
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
@@ -38,5 +110,7 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #ec0000;
 }
+/*************************************************/
+
