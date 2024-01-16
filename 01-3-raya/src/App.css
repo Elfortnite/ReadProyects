@@ -4,7 +4,7 @@
   padding: 1rem;
   width:100%;
   text-align: center;
-  background-color: #888;;
+  background-color: #0a0027e3;;
 }
 /*
 #root img{
@@ -28,23 +28,21 @@
 }
 
 .tiempo{
-  background-color: #ade613;
 
 }
 .igual{
-  background-color: #ec0000;
   margin: 1%;
 
 }
 .uno{
-  background-color: #19053038;
+  background-color: #b3afc069;
   margin: 0 auto;
   width: 90%;
   height:60%;
 }
 
 .tres{
-  background-color: #020101;
+  background-color: #b3afc069;
   width: 20%;
   display: inline-block;
 
@@ -53,7 +51,7 @@
 
 }
 .cuatro{
-  background-color: #178317;
+  background-color: #b3afc069;
   width: 20%;
   display: inline-block;
   margin-left: 4%;
@@ -69,7 +67,6 @@
 
 .imj{
   width :50%;
-  background-color: #dfd5d5;  
 }
 
 

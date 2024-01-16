@@ -1,17 +1,6 @@
 import { useState } from 'react'
 
 
-function Profile() {
-    return (
-      <img  className='imp' src={reactLogo}
-        
-        alt="Katherine Johnson"
-      />
-    )
-  }
-  
-
-
   function App7() {
     const [count, setCount] = useState(0)
   
